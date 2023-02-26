@@ -38,7 +38,6 @@
     <resource-file src="src/android/layout/controller_view.xml" target="res/layout/controller_view.xml"/>
 
     <resource-file src="src/android/values/player_strings.xml" target="res/values/player_strings.xml"/>
-    <resource-file src="src/android/values/styles.xml" target="res/values/styles.xml"/>
 
     <resource-file src="src/android/drawable/ic_fullscreen_white.xml" target="res/drawable/ic_fullscreen_white.xml"/>
     <resource-file src="src/android/drawable/ic_fullscreen_exit_white.xml" target="res/drawable/ic_fullscreen_exit_white.xml"/>
