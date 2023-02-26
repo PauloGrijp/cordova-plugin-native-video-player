@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snuffy/cordova-plugin-native-video-player.git"
+    "url": "git+https://github.com/PauloGrijp/cordova-plugin-native-video-player.git"
   },
   "author": "snuffy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snuffy/cordova-plugin-native-video-player/issues"
+    "url": "https://github.com/PauloGrijp/cordova-plugin-native-video-player/issues"
   },
   "dependencies": {
     "@babel/core": "^7.10.5",
@@ -31,7 +31,7 @@
     "gulp-rename": "^2.0.0",
     "xml2js": "^0.4.19"
   },
-  "homepage": "https://github.com/snuffy/cordova-plugin-native-video-player#readme",
+  "homepage": "https://github.com/PauloGrijp/cordova-plugin-native-video-player#readme",
   "keywords": [
     "ecosystem:cordova",
     "cordova-ios",
