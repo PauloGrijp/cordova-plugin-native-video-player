@@ -17,15 +17,6 @@
       </feature>
     </config-file>
 
-    <edit-config file="AndroidManifest.xml" target="/manifest" mode="merge">
-        <manifest xmlns:tools="http://schemas.android.com/tools" />
-    </edit-config>
-
-    <config-file target="AndroidManifest.xml" parent="/*" mode="merge">
-        <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-        <uses-permission android:name="android.permission.WAKE_LOCK" />
-    </config-file>
-
     <!-- soruce -->
     <source-file src="src/android/java/CDVNativeVideoPlayer.kt" target-dir="app/src/main/kotlin/jp/rabee"/>
     <source-file src="src/android/java/GlideThumbnailTransformation.kt" target-dir="app/src/main/kotlin/jp/rabee"/>
